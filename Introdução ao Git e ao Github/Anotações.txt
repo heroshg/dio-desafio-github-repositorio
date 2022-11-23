@@ -1,0 +1,2 @@
+Link para comandos de markdown: https://www.markdownguide.org/basic-syntax/
+O Git Bash
